@@ -8,9 +8,7 @@ Stress Detection: A Predictive Analysis.
 
 Sengupta, Kathakoli.
 
-2021 Asian Conference on Innovation in Technology (ASIANCON).
-
-2021.
+2021 Asian Conference on Innovation in Technology (ASIANCON),2021.
 
 doi={10.1109/ASIANCON51346.2021.9544609}.
 
