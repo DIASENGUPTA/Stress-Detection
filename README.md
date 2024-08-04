@@ -6,11 +6,8 @@ Run `code/Blink\ Detection.ipynb`, `code/Eye\ drowsiness\ detection\ TARP.ipynb`
 ## Citation
 If you use this code, please cite the following paper:
 
-  Stress Detection: A Predictive Analysis.
-  
-  Sengupta, Kathakoli.
-  
-  2021 Asian Conference on Innovation in Technology (ASIANCON),2021.
-  
-  doi={10.1109/ASIANCON51346.2021.9544609}.
+Stress Detection: A Predictive Analysis/
+Sengupta, Kathakoli/
+2021 Asian Conference on Innovation in Technology (ASIANCON),2021/
+doi={10.1109/ASIANCON51346.2021.9544609}.
 
