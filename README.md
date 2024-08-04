@@ -1,6 +1,8 @@
 # Stress-Detection
 This repository contains the code for [Stress Detection: A Predictive Analysis](https://ieeexplore.ieee.org/document/9544609).
 
+Run `code/Blink\ Detection.ipynb`, `code/Eye\ drowsiness\ detection\ TARP.ipynb` and `Eye-brow\ Detection.ipynb` to implement Stress Detection.
+
 ## Citation
 If you use this code, please cite the following paper:
 
