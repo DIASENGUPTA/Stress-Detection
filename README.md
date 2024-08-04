@@ -4,13 +4,13 @@ This repository contains the code for [Stress Detection: A Predictive Analysis](
 ## Citation
 If you use this code, please cite the following paper:
 
-author={Sengupta, Kathakoli}.
+Stress Detection: A Predictive Analysis.
 
-booktitle={2021 Asian Conference on Innovation in Technology (ASIANCON)}.
+Sengupta, Kathakoli.
 
-title={Stress Detection: A Predictive Analysis}.
+2021 Asian Conference on Innovation in Technology (ASIANCON).
 
-year={2021}.
+2021.
 
 doi={10.1109/ASIANCON51346.2021.9544609}.
 
